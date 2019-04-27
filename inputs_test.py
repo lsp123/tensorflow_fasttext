@@ -7,6 +7,8 @@ VOCAB_FILE='/home/alan/Workspace/other/fastText/data/ag_news.train.vocab'
 VOCAB_SIZE=95810
 INPUT_FILE='/home/alan/Workspace/other/fastText/data/ag_news.train.tfrecords-1-of-1'
 #i love beijing tiananmen
+
+#haha
 def test_parse_spec():
     fc = FeatureColumns(
         True,
